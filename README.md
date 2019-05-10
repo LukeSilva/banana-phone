@@ -1,14 +1,14 @@
-# benny-hill
+# banana-phone
 
-Play the Benny Hill theme while running another command
+Play the banana phone theme while running another command
 
 ```
-npm install -g benny-hill
+npm install -g banana-phone
 
-benny-hill # just play benny hill
-benny-hill sleep 10 # play for 10 s
-benny-hill make # when compiling
-benny-hill npm install -g dat # installing node modules
+banana-phone # just play banana phone
+banana-phone sleep 10 # play for 10 s
+banana-phone make # when compiling
+banana-phone npm install -g dat # installing node modules
 ```
 
 ## Linux users
