@@ -3,7 +3,7 @@
 Play the banana phone theme while running another command
 
 ```
-npm install -g banana-phone
+npm install -g @lukesilva/banana-phone
 
 banana-phone # just play banana phone
 banana-phone sleep 10 # play for 10 s
